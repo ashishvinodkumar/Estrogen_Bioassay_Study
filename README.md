@@ -26,19 +26,19 @@ The basic design randomizes female rats to treatment groups, with groups consist
 
 # Codebook
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26104722/124193396-bc0e4980-da94-11eb-941e-41093d9b1504.png" width="600" height="600">
+<img src="https://user-images.githubusercontent.com/26104722/124193396-bc0e4980-da94-11eb-941e-41093d9b1504.png">
 </p>
 
 # Model Selection
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26104722/124193395-bc0e4980-da94-11eb-90e6-a47b25ad69df.png" width="600" height="600">
+<img src="https://user-images.githubusercontent.com/26104722/124193395-bc0e4980-da94-11eb-90e6-a47b25ad69df.png">
 </p>
 
 # Model Result
 According to the below regression table, our analysis sought to answer 3 inference questions about the effects of estrogenic agonist and antagonist on uterus weight. Specifically, we were asked to assess the effects of EE (agonist) and ZM (antagonist) on uterus weight. We found that EE was associated with a significant positive effect on uterus weight. EE has a positive coefficient of 0.15, resulting in an exponentiated point estimate of 1.16 and a 95% confidence interval of (1.16, 1.18). Thus, with a 1 unit increase in EE the uterus weight increased on average by 16%. Similarly, ZM was associated with a significant negative effect on uterus weight. ZM has a negative coefficient of -0.20, resulting in an exponentiated point estimate of 0.81 and a 95% confidence interval of (0.74, 0.89). Thus, with a 1 unit increase in EE, the uterus weight decreases on average by 18.5%. 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26104722/124193393-bb75b300-da94-11eb-9509-ab4d415a1283.png" width="600" height="600">
+<img src="https://user-images.githubusercontent.com/26104722/124193393-bb75b300-da94-11eb-9509-ab4d415a1283.png">
 </p>
 
 Furthermore, we found that dose responses vary across labs. Looking at the dot-plot below, there are around 4 labs on two ends of the plot that do not contain 0 in the 95% confidence interval. These labs distinctively vary from the mean labs towards the center. As a result, this shows that the dose response results measured, does vary across the labs.
