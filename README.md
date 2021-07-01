@@ -15,7 +15,7 @@ The point of the study is to use the rats as an assay to test the effect of estr
 
 The basic design randomizes female rats to treatment groups, with groups consisting of a control group and several groups having increasing doses of the test agent. An international multi-laboratory study was conducted to compare the results of the rat uterotrophic bioassay using a known estrogen agonist (EE) and a known estrogen antagonist (ZM). The main goal of the study was to assess whether the results were consistent across the laboratories.
 
-# Questions to be answered:
+# Research Questions:
 > Is the uterotrophic bioassay successful at identifying estrogenic effects of EE and anti-estrogenic effects of ZM. That is, after controlling for predictors and random effects, does uterus weight exhibit an increasing dose response trend for EE and a decreasing dose response trend for ZM?
 
 
