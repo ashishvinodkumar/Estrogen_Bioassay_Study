@@ -1,8 +1,8 @@
 # Estrogen_Bioassay_Study
 
-Presentation: 
+[Report](https://github.com/ashishvinodkumar/Estrogen_Bioassay_Study/blob/main/30_Reports/Final%20Report.pdf)
 
-Report: 
+[Presentation](https://github.com/ashishvinodkumar/Estrogen_Bioassay_Study/tree/main/40_Presentation)
 
 # Introduction
 Estrogens are a group of hormones produced in both the female ovaries and male testes, with larger amounts made in females than in males. They are particularly influential during puberty, menstruation, and pregnancy, but they also help regulate the growth of bones, skin, and other organs and tissues. In general, they have a strong effect of endocrine function by disrupting these functions.
